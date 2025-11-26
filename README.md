@@ -116,7 +116,7 @@ images/
 └── taggedandpushed.png
 
 🔗 View the Application Code
-<p align="center"> <a href="https://github.com/seyiabello/Docker---Containerization-for-DevOps-Engineers/tree/main/code/nimbus-site"> <img alt="View Code" src="https://img.shields.io/badge/View%20Application%20Code-000000?style=for-the-badge&logo=github"> </a> </p>
+<p align="center"> <a href="https://github.com/seyiabello/Docker---Containerization-for-DevOps-Engineers/tree/master/code/nimbus-site"> <img alt="View Application Code" src="https://img.shields.io/badge/View%20Application%20Code-000000?style=for-the-badge&logo=github"> </a> </p>
 📸 Additional Technical Screenshots
 🧩 Docker Image Layers (Docker Scout)
 <p align="center"> <img src="images/layers.png" width="85%"> </p>
