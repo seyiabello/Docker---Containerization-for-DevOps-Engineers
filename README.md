@@ -86,6 +86,8 @@ Cloud Deployment Ready
 
 ```bash
 docker build -t nimbus-site:latest .
+```
+
 Run the container
 docker run --rm -p 8080:80 nimbus-site:latest
 📸 Local Deployment
